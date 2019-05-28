@@ -3,7 +3,7 @@ these are the colors
 
 purple
 blue
-sky
+skyblue
 green
 yellow
 orange
